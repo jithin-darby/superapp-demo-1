@@ -44,11 +44,11 @@ Before starting, ensure you have the following installed on your system:
 3. Copy and paste the following content into the `.env.local` file:
 
    ```env
-   NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=AIzaSyAjXVS6Wgkwsa6gO9dL3-X57ca4PQOdVy4
-   TWILIO_ACCOUNT_SID=AC1228839359a91a63c88a2d10f83a53e9
-   TWILIO_AUTH_TOKEN=d3457b13da924b8c4e481da3244f2bce
-   STRIPE_SECRET_KEY=sk_test_51SHkQ4GfN7yihstOo4Nt0yppimynpv0upvNgpjlPW4k0YiNfxZNRpuLf7SfD095cuPzZRvrgI58o1TVpzenq4ehH00UpCAulml
-   STRIPE_PUBLISHABLE_KEY=pk_test_51SHkQ4GfN7yihstOarEYY8K2HtfYGCfqDbvQyoGXVNILEdY8RVwMmeCUOtCSJr2JHpcCiVAb7Ht7ROWWjpdWzB5O00JS7w5gGU
+   NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=<enter a value here>
+   TWILIO_ACCOUNT_SID=<enter a value here>
+   TWILIO_AUTH_TOKEN=<enter a value here>
+   STRIPE_SECRET_KEY=<enter a value here>
+   STRIPE_PUBLISHABLE_KEY=<enter a value here>
    ```
 
 4. **Important:** Save the file with the exact name `.env.local` (including the dot at the beginning)
@@ -213,4 +213,5 @@ Once the application is running:
 **Document Version:** 1.0  
 **Last Updated:** Current Date  
 **Project:** EverGreen Works Operations Dashboard
+
 
